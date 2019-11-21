@@ -10,7 +10,7 @@ See file contents for database
 2) The total number of packages listed in this table?
 3) How many times the package "Rcpp" was downloaded?
 4) How many recordings are from China ("CN")?
-5) Give the package name and how many times they're downloaded. Order by the 2nd column descently.
+5) Give the package name and how many times they're downloaded. Order by how many times they're downloaded descently.
 6) Give the package ranking (based on how many times it was downloaded) during 9AM to 11AM
 7) How many recordings are from China ("CN") or Japan("JP") or Singapore ("SG")?
 8) Print the countries whose downloaded are more than the downloads from China ("CN")
@@ -18,5 +18,5 @@ See file contents for database
 10) Get the package whose downloading count ranks 2nd (print package name and it's download count).
 11) Print the name of the package whose download count is bigger than 1000.
 12) The field "r_os" is the operating system of the users.
-    -- 	Here we would like to know what main system we have (ignore version number), the relevant counts, and the proportion (in percentage).
+    -- 	Here we would like to know how are operating systems compare to each other: the relevant counts and the proportion (in percentage).
 
