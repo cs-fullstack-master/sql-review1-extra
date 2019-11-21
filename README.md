@@ -7,7 +7,7 @@ See file contents for database
 ### Exercises
 
 1) Give the total number of recordings in this table
-2) The number of packages listed in this table?
+2) The total number of packages listed in this table?
 3) How many times the package "Rcpp" was downloaded?
 4) How many recordings are from China ("CN")?
 5) Give the package name and how many times they're downloaded. Order by the 2nd column descently.
